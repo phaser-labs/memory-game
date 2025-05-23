@@ -7,8 +7,7 @@
     "module": "ESNext",
     "skipLibCheck": true,
     "paths": {
-      "@/*": ["./src/*"],
-      "@games/*": ["./src/game/*"],
+      "@/*": ["./src/*"]
     },
 
     /* Bundler mode */
